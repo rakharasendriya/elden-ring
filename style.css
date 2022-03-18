@@ -1,0 +1,59 @@
+body,
+html {
+  height: 100%;
+}
+
+.jumbotron-index {
+  background-image: url(img/Elden-Ring-Mansion.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 5rem 0 15rem 0;
+}
+
+.jumbotron-about {
+  background-image: url(img/Elden-Ring-About.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 10rem 1rem;
+}
+.introduction {
+  background-image: url(img/Elden-Ring-Dungeon.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 10rem 0;
+}
+
+.blog {
+  background-image: url(img/Elden-Ring-Blog.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 10rem 0 5rem 0;
+}
+
+.classes {
+  background-image: url(img/Elden-Ring-Classes.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 5rem 0 5rem 0;
+}
+
+.locations {
+  background-image: url(img/Elden-Ring-Locations.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 5rem 0 5rem 0;
+}
+
+.bosses {
+  background-image: url(img/Elden-Ring-Bosses.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 5rem 0 5rem 0;
+}
+
+.contact {
+  background-image: url(img/Elden-Ring-Contact.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 10rem 0;
+}
